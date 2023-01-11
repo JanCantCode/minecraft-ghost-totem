@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "totemfake",
+  "version": "${version}",
+  "name": "Totemfake",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/totemfake/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "tk.jandev.totemfake.client.TotemfakeClient"
+    ],
+    "main": [
+      "tk.jandev.totemfake.Totemfake"
+    ]
+  },
+  "mixins": [
+    "totemfake.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.12",
+    "fabric": "*",
+    "minecraft": "1.19.2"
+  }
+}
