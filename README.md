@@ -11,15 +11,20 @@ configuration:
 /autoghost <slot> - set the slot for the totem to appear in (preferably your main pvp totem slot)
 
 
-DOWNLOAD FOR LAZY PEOPLE: 
+# DOWNLOAD FOR LAZY PEOPLE: 
 
 
 
 
-BUILDING FROM SRC:
+# BUILDING FROM SRC:
 
 1.) git clone https://github.com/JanCantCode/minecraft-ghost-totem/
+
 2.) cd minecraft-ghost-totem
+
 3.) gradlew build
+
 4.) cd builds/libs
+
 5.) done
+
