@@ -13,6 +13,7 @@ configuration:
 
 # DOWNLOAD FOR LAZY PEOPLE: 
 
+https://modrinth.com/mod/minecraft-ghost-totem
 
 
 
