@@ -24,7 +24,7 @@ configuration:
 
 3.) gradlew build
 
-4.) cd builds/libs
+4.) cd build/libs
 
 5.) done
 
